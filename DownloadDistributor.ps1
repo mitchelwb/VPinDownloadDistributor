@@ -1,15 +1,15 @@
 # Define the source folder
 $sourceFolder = "$env:USERPROFILE\Downloads"
 
-# Define the ROM folder
+# Default Baller Installer folders
 $romFolder = "C:\vPinball\VisualPinball\VPinMAME\roms"
 $altColorFolder = "C:\vPinball\VisualPinball\VPinMAME\altcolor"
 $tablesFolder ="C:\vPinball\VisualPinball\Tables"
 
 ########## Temporary for Testing ##########
-$romFolder = "C:\vPinballTest\VisualPinball\VPinMAME\roms"
-$altColorFolder = "C:\vPinballTest\VisualPinball\VPinMAME\altcolor"
-$tablesFolder ="C:\vPinballTest\VisualPinball\Tables"
+# $romFolder = "C:\vPinballTest\VisualPinball\VPinMAME\roms"
+# $altColorFolder = "C:\vPinballTest\VisualPinball\VPinMAME\altcolor"
+# $tablesFolder ="C:\vPinballTest\VisualPinball\Tables"
 ########## Temporary for Testing ##########
 
 
